@@ -39,14 +39,6 @@
         {
           "src": "/reviews/photos/sample-taco-place/green-2.png",
           "alt": "Sample Taco Place"
-        },
-        {
-          "src": "/reviews/photos/sample-taco-place/grey-3.png",
-          "alt": "Sample Taco Place"
-        },
-        {
-          "src": "/reviews/photos/sample-taco-place/lightblue-4.png",
-          "alt": "Sample Taco Place"
         }
       ],
       "history": [
@@ -294,6 +286,17 @@
           "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
           "changes": [
             "Scores"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T18:42:59",
+          "status": "published",
+          "place_name": "Green Shack",
+          "review_title": "First Person to Try the Mt. Rubidoux",
+          "recommendation": "Go Eat Here",
+          "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
+          "changes": [
+            "Photos"
           ]
         }
       ],
