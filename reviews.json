@@ -1,0 +1,305 @@
+{
+  "reviews": [
+    {
+      "slug": "sample-taco-place",
+      "status": "published",
+      "place_name": "Sample Taco Place",
+      "review_title": "",
+      "recommendation": "Go Eat Here",
+      "summary": "A short plain-English summary of what stood out and who this place is good for.",
+      "category": "Mexican",
+      "visit_date": "2026-06-19",
+      "location": "City, State",
+      "price_range": "$$",
+      "best_for": [
+        "Lunch",
+        "Quick stop",
+        "Casual meal"
+      ],
+      "ordered": [
+        "Taco plate",
+        "Chips and salsa"
+      ],
+      "highlights": [
+        "Fast service",
+        "Good flavor",
+        "Easy parking"
+      ],
+      "watch_out_for": [
+        "Limited seating during rush"
+      ],
+      "scores": {
+        "food": 8,
+        "service": 7,
+        "value": 8,
+        "cleanliness": 8,
+        "vibe": 7
+      },
+      "review": "test",
+      "photos": [
+        {
+          "src": "/reviews/photos/sample-taco-place/red-1.png",
+          "alt": "Sample Taco Place"
+        },
+        {
+          "src": "/reviews/photos/sample-taco-place/green-2.png",
+          "alt": "Sample Taco Place"
+        },
+        {
+          "src": "/reviews/photos/sample-taco-place/grey-3.png",
+          "alt": "Sample Taco Place"
+        },
+        {
+          "src": "/reviews/photos/sample-taco-place/lightblue-4.png",
+          "alt": "Sample Taco Place"
+        }
+      ],
+      "history": [
+        {
+          "updated_at": "2026-06-19T11:45:42",
+          "status": "listed",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T11:46:20",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T11:55:35",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T11:56:36",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T16:35:17",
+          "status": "draft",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status",
+            "Review text"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T16:35:17",
+          "status": "draft",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T16:35:19",
+          "status": "draft",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T16:35:19",
+          "status": "draft",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T16:35:24",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status",
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:01:54",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:02:01",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:02:01",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:02:14",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:02:14",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:02:14",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Photos"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:12:24",
+          "status": "hidden",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:12:31",
+          "status": "listed",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T17:12:56",
+          "status": "published",
+          "place_name": "Sample Taco Place",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "A short plain-English summary of what stood out and who this place is good for.",
+          "changes": [
+            "Status"
+          ]
+        }
+      ],
+      "tiktok_url": "",
+      "maps_url": "",
+      "updated_at": "2026-06-19"
+    },
+    {
+      "slug": "review-2026-06-19",
+      "status": "listed",
+      "place_name": "",
+      "review_title": "",
+      "recommendation": "Go Eat Here",
+      "summary": "",
+      "category": "",
+      "visit_date": "2026-06-19",
+      "location": "",
+      "price_range": "$$",
+      "best_for": [],
+      "ordered": [],
+      "highlights": [],
+      "watch_out_for": [],
+      "scores": {
+        "food": 8,
+        "service": 8,
+        "value": 8,
+        "cleanliness": 8,
+        "vibe": 8
+      },
+      "review": "",
+      "photos": [],
+      "history": [
+        {
+          "updated_at": "2026-06-19T11:49:18",
+          "status": "listed",
+          "place_name": "",
+          "review_title": "",
+          "recommendation": "Go Eat Here",
+          "summary": "",
+          "changes": [
+            "Status"
+          ]
+        }
+      ],
+      "tiktok_url": "",
+      "maps_url": "",
+      "updated_at": "2026-06-19"
+    }
+  ]
+}
