@@ -3,39 +3,34 @@
     {
       "slug": "sample-taco-place",
       "status": "published",
-      "place_name": "Sample Taco Place",
-      "review_title": "",
+      "place_name": "Green Shack",
+      "review_title": "First Person to Try the Mt. Rubidoux",
       "recommendation": "Go Eat Here",
-      "summary": "A short plain-English summary of what stood out and who this place is good for.",
-      "category": "Mexican",
-      "visit_date": "2026-06-19",
-      "location": "City, State",
-      "price_range": "$$",
+      "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
+      "category": "Sandwhiches",
+      "visit_date": "2026-06-18",
+      "location": "Riverside, California",
+      "price_range": "~15$",
       "best_for": [
-        "Lunch",
-        "Quick stop",
-        "Casual meal"
+        "30 Minute Lunch Break During Arcade Playing"
       ],
       "ordered": [
-        "Taco plate",
-        "Chips and salsa"
+        "Mt. Rubidoux"
       ],
       "highlights": [
-        "Fast service",
-        "Good flavor",
-        "Easy parking"
+        "It looked Clean"
       ],
       "watch_out_for": [
-        "Limited seating during rush"
+        "Limited seating during World Cup Games"
       ],
       "scores": {
-        "food": 8,
-        "service": 7,
+        "food": 10,
+        "service": 9,
         "value": 8,
-        "cleanliness": 8,
-        "vibe": 7
+        "cleanliness": 10,
+        "vibe": 9
       },
-      "review": "test",
+      "review": "This is a location inside the Food Lab. I am still trying to figure out if this is a pop up or a permanent stand. They have their main location in the heart of San Bernadino.\n\nThe food was hot and fresh, I saw the guy cook it with my own two eyes and I was satisfied with his cooking technique. The staff need to have a mildly slightly better way of notifying the call out person that the food is done because they didn't notice it was done for a solid 2 minutes. It was funny and I didn't mind but if I was starving I'd be hangry.\n\nGood times surrounded this food trip, I will return.",
       "photos": [
         {
           "src": "/reviews/photos/sample-taco-place/red-1.png",
@@ -254,10 +249,56 @@
           "changes": [
             "Status"
           ]
+        },
+        {
+          "updated_at": "2026-06-19T18:01:42",
+          "status": "published",
+          "place_name": "Green Shack",
+          "review_title": "First Person to Try the Mt. Rubidoux",
+          "recommendation": "Go Eat Here",
+          "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
+          "changes": [
+            "Place name",
+            "Review title",
+            "Summary",
+            "Food category",
+            "Visit date",
+            "Location",
+            "Price range",
+            "Best for",
+            "Ordered items",
+            "Highlights",
+            "Watch-outs",
+            "Review text",
+            "TikTok link",
+            "Map link"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T18:01:59",
+          "status": "published",
+          "place_name": "Green Shack",
+          "review_title": "First Person to Try the Mt. Rubidoux",
+          "recommendation": "Go Eat Here",
+          "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
+          "changes": [
+            "Scores"
+          ]
+        },
+        {
+          "updated_at": "2026-06-19T18:02:17",
+          "status": "published",
+          "place_name": "Green Shack",
+          "review_title": "First Person to Try the Mt. Rubidoux",
+          "recommendation": "Go Eat Here",
+          "summary": "This was a Corned Beef Sandwhich. It was good enough that I'll go back for pictures of the food.",
+          "changes": [
+            "Scores"
+          ]
         }
       ],
-      "tiktok_url": "",
-      "maps_url": "",
+      "tiktok_url": "https://www.tiktok.com/ZTBGBsYLn/",
+      "maps_url": "https://maps.app.goo.gl/J2vWRYaEbpH4DAwi6",
       "updated_at": "2026-06-19"
     },
     {
